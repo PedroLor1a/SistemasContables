@@ -1,0 +1,49 @@
+{
+  "activo": [
+    "Caja",
+    "Banco c/c",
+    "Mercaderías",
+    "Muebles y Útiles",
+    "Rodados",
+    "Maquinarias",
+    "Inmuebles",
+    "Instalaciones",
+    "Valores a Depositar",
+    "Depósito a Plazo Fijo",
+    "Títulos y Bonos",
+    "Acciones de otras sociedades",
+    "Deudores por Ventas",
+    "Documentos a Cobrar",
+    "Alquileres a Cobrar",
+    "IVA Crédito Fiscal",
+    "Anticipo de Sueldos",
+    "Productos en Proceso",
+    "Productos Terminados",
+    "Marcas y Patentes",
+    "Derechos de Autor",
+    "Llave de Negocio",
+    "Gastos de Organización"
+  ],
+  "pasivo": [
+    "Proveedores",
+    "Documentos a Pagar",
+    "Préstamos Bancarios",
+    "Cargas Sociales a Pagar"
+  ],
+  "patrimonio_neto": [
+    "Capital",
+    "Resultados No Asignados",
+    "Reserva Legal"
+  ],
+  "ingresos": [
+    "Ventas",
+    "Alquileres Cobrados",
+    "Intereses Ganados"
+  ],
+  "egresos": [
+    "Alquileres Pagados",
+    "Intereses Pagados",
+    "Gastos Generales",
+    "Fletes"
+  ]
+}
